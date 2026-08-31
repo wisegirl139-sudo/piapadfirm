@@ -7,3 +7,4 @@ adding adc_in pins to pins used-2209 ![alt text](image-1.png)-2214
 okayyy- 23:53(-1)
 so currently i think ive done stuff on the micro contri=oller and generated code
 soo now im gonna like code it which is the underestandable paart(maybe)-2354
+OKyyy i didnt acc code , i was palaying around with sampling time, settled at like 640, which i read /googled. so its great for sensing but takes longer(I THINKKK)-0007
